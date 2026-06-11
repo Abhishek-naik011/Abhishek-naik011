@@ -76,8 +76,5 @@
 
 ---
 
-### ✨ Profile Views
-
-![](https://komarev.com/ghpvc/?username=Abhishek-naik011\&style=for-the-badge\&color=blue)
 
 ### ⭐ Thanks for visiting my profile!
