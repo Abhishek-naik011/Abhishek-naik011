@@ -1,5 +1,18 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+# 💫 About Me
+
+🎓 AI & Machine Learning Graduate
+
+💻 Passionate about Python, Django, Machine Learning, and Web Development
+
+🚀 Building projects that solve real-world problems through technology
+
+🌱 Currently learning Django REST Framework, Cloud Computing, and React Native
+
+🤝 Open to collaborating on AI/ML and Full-Stack Development projects
+
+🎯 Seeking opportunities to grow as a Software Developer and AI Engineer
+
+⚡ Strong believer in continuous learning and innovation
 
 
 # 💻 Tech Stack:
