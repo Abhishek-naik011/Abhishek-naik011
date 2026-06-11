@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abhishek Naik</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=AI+%26+ML+Engineer;Python+Developer;Django+Developer;Open+Source+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=AI+%26+ML+Engineer;Python+Developer;Django+Developer;Full+Stack+Developer;Always+Learning+New+Things" alt="Typing SVG" />
 </p>
 
 <h3 align="center">🚀 Artificial Intelligence & Machine Learning Engineer from Karnataka</h3>
