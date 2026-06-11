@@ -66,12 +66,6 @@
 
 ---
 
-## 🐍 Contribution Snake
-
-![Snake animation](https://github.com/Abhishek-naik011/Abhishek-naik011/blob/output/github-contribution-grid-snake.svg)
-
----
-
 ## 🚀 Featured Projects
 
 🌾 Raita Mitra – Smart Agriculture Platform
