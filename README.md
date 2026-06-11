@@ -4,19 +4,17 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=AI+%26+ML+Engineer;Python+Developer;Django+Developer;Open+Source+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
 </p>
 
-<h3 align="center">🚀 Artificial Intelligence & Machine Learning Engineer from India</h3>
+<h3 align="center">🚀 Artificial Intelligence & Machine Learning Engineer from Karnataka</h3>
 
 <img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
 ## 💫 About Me
 
-🔭 Currently building **Raita Mitra – Smart Agriculture Platform**
-
 🌱 Learning **Advanced Django, REST APIs, React Native & Cloud Computing**
 
 👯 Looking to collaborate on **AI/ML & Full-Stack Projects**
 
-🤝 Seeking help with **Cloud Deployment & DevOps**
+🤝 Seeking opportunities to contribute to **Open Source Projects**
 
 💬 Ask me about **Python, Django, Machine Learning, SQL**
 
@@ -26,7 +24,7 @@
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge\&logo=linkedin)](YOUR_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/abhishek-naik-524bb1334/)
 
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge\&logo=github)](https://github.com/Abhishek-naik011)
 
@@ -46,7 +44,7 @@
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=Abhishek-naik011\&theme=radical\&no-frame=false\&no-bg=true\&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Abhishek-naik011&theme=tokyonight&no-frame=true)
 
 ---
 
