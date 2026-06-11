@@ -1,101 +1,15 @@
-# 👋 Hi, I'm Abhishek Naik
+# 💫 About Me:
+🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
 
-### 🚀 AI & Machine Learning Engineer | Python Developer | Django Enthusiast
 
-Passionate about building intelligent applications, web solutions, and solving real-world problems through technology. I enjoy learning new technologies and transforming ideas into impactful projects.
-
-# 💫 About Me
-
-🔭 Currently working on **Raita Mitra – A Smart Agriculture Platform**
-
-👯 Looking to collaborate on **Python, Django, AI/ML, and Open Source Projects**
-
-🤝 Seeking help with **Advanced Django, REST APIs, Cloud Computing, and System Design**
-
-🌱 Currently learning **Machine Learning, Cloud Security, Django REST Framework, and React Native**
-
-💬 Ask me about **Python, Django, Machine Learning, Git/GitHub, and Web Development**
-
-⚡ Fun Fact: **I love building projects that solve practical problems and improve everyday life.**
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Abhishek-naik011&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Abhishek-naik011&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Abhishek-naik011&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://komarev.com/ghpvc/?username=Abhishek-naik011&icon=0&color=0)](https://visitcount.itsvg.in)
 
-# 🛠️ Tech Stack
-
-### Languages
-
-* Python
-* SQL
-* HTML5
-* CSS3
-
-### Frameworks & Libraries
-
-* Django
-* React Native
-* Scikit-Learn
-* Pandas
-* NumPy
-
-### Databases
-
-* MySQL
-* SQLite
-
-### Tools
-
-* Git
-* GitHub
-* VS Code
-* Jupyter Notebook
-
----
-
-# 🚀 Featured Projects
-
-### 🌾 Raita Mitra
-
-A smart farming platform designed to assist farmers with modern agricultural solutions and digital support.
-
-### 🎓 Student Management System
-
-A Django-based CRUD application for efficient student record management.
-
-### 🤖 Machine Learning Projects
-
-Built predictive and analytical models using Python and Scikit-Learn for solving real-world problems.
-
----
-
-# 🎯 2026 Goals
-
-✅ Master Django & Django REST Framework
-
-✅ Build Production-Ready AI/ML Applications
-
-✅ Contribute to Open Source Projects
-
-✅ Improve Cloud Computing & Security Skills
-
-✅ Secure a Software Development / AI Engineer Role
-
----
-
-# 📈 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=Abhishek-naik011\&theme=tokyonight\&hide_border=true\&show_icons=true)
-
-![](https://streak-stats.demolab.com?user=Abhishek-naik011\&theme=tokyonight\&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek-naik011\&layout=compact\&theme=tokyonight\&hide_border=true)
-
----
-
-### 🌐 Connect With Me
-
-* LinkedIn: [www.linkedin.com/in/abhishek-naik011](http://www.linkedin.com/in/abhishek-naik011)
-* GitHub: github.com/Abhishek-naik011
-
----
-
-⭐ "Continuous learning and consistent effort turn ideas into achievements."
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
