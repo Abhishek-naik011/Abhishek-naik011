@@ -42,10 +42,7 @@
 
 ---
 
-## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=Abhishek-naik011&theme=tokyonight&no-frame=true&margin-w=15)
----
 
 ## 📊 GitHub Stats
 
